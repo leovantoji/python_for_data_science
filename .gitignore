@@ -7,3 +7,5 @@ data
 *.docx
 
 .vscode
+
+.ipynb_checkpoints
